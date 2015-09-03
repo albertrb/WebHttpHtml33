@@ -1,5 +1,5 @@
 Action()
 {
-	//local
+	//remote
 	return 0;
 }
